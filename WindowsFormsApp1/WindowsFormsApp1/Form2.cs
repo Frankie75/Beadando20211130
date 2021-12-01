@@ -19,6 +19,10 @@ namespace WindowsFormsApp1
 
         static public string ConnectionString;
 
+        public int anumber = 0;
+        public int cnumber = 0;
+        public int nextfreeplace;
+
         public formNew(string c)
         {
             InitializeComponent();
@@ -27,9 +31,6 @@ namespace WindowsFormsApp1
         }
 
 
-        public int anumber = 0;
-        public int cnumber = 0;
-        public int nextfreeplace;
   
 
         private void tbAkeret_Leave(object sender, EventArgs e)

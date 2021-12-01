@@ -9,3 +9,14 @@ C:\Users\Diak\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFo
 C:\Users\Diak\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\Diak\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Diak\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formMain.resources
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formNew.resources
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Frankie\source\repos\Beadando20211130\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
